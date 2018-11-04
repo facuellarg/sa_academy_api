@@ -1,7 +1,7 @@
 import merge from 'lodash.merge';
 import GraphQLJSON from 'graphql-type-json';
 import { makeExecutableSchema } from 'graphql-tools';
-
+//graphql
 import { mergeSchemas } from './utilities';
 
 import {
